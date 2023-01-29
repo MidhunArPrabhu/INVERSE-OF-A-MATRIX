@@ -11,10 +11,14 @@ To write a python program to find the inverse of a matrix
 
 ## ALGORITHIM :
 
-### STEP 1 : Import numpy library as np
-### STEP 2 : Create a matrix using array() function. 
-### STEP 3 : Using the np.linalg.inv(), we get the inverse of the given matrix.
-### STEP 4 : Get the output and end the program.
+### STEP 1 :
+Import numpy library as np
+### STEP 2 : 
+Create a matrix using array() function. 
+### STEP 3 :
+Using the np.linalg.inv(), we get the inverse of the given matrix.
+### STEP 4 : 
+Get the output and end the program.
 
 ## PROGRAM :
 ```python
